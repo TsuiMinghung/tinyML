@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd7f0e3d-7887-448b-a8d4-5b1f37b4aafd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/LJR" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/.idea/train.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/data_augmentation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/data_fc.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/data_load.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/data_prepare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/data_produce.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/data_split.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/data_split_person.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/data_view.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/data_x_cosin.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/data_x_dis.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/former.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/former/output_wing_dengyl.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/former/output_wing_hyw.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/former/output_wing_jiangyh.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/former/output_wing_liucx.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/former/output_wing_lsj.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/former/output_wing_pengxl.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/former/output_wing_shiyun.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/former/output_wing_tangsy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/former/output_wing_xunkai.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/former/output_wing_zhangxy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/generateFinal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/ljr_x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/ljr_y.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/ljr_z.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/lyl_x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/lyl_x_collect.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/lyl_y.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/lyl_y_collect.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/lyl_z.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/lyl_z_collect.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/mxd_x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/mxd_y.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/mxd_z.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/xmh_x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/xmh_y.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/xmh_z.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/xzy_x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/xzy_y.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/graph/xzy_z.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/handle_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/ljr/output_ljr_liujr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/lyl/output_lyl_linyl.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/mxd/output_mxd_maxd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/negative/output_negative_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/negative/output_negative_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/negative/output_negative_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/negative/output_negative_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/negative/output_negative_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/negative/output_negative_ccw_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/negative/output_negative_ccw_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/negative/output_negative_jiangyh.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/netmodels/CNN/weights.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/parse_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/shoot/output_shoot_dengyl.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/shoot/output_shoot_linyl.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/shoot/output_shoot_liujr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/shoot/output_shoot_maxd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/shoot/output_shoot_xumh.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/shoot/output_shoot_xuzy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/shoot/output_wing_hyw.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/ljr_x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/ljr_y.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/ljr_z.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/lyl_x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/lyl_y.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/lyl_z.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/mw1_x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/mw1_y.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/mw1_z.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/mw2_x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/mw2_y.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/mw2_z.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/mw3_x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/mw3_y.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/mw3_z.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/mxd_x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/mxd_y.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/mxd_z.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/output_shoot_linyl.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/output_shoot_liujr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/output_shoot_maxd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/output_shoot_xumh.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/output_shoot_xuzy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/xmh_x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/xmh_y.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/xmh_z.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/xzy_x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/xzy_y.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/test/xzy_z.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/train.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/train_magic_wand_model.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/xmh/output_xmh_xumh.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/xzy/output_xzy_xuzy.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="29ZKBJ9Dh7S0cNfMRln1qI8g5N1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd7f0e3d-7887-448b-a8d4-5b1f37b4aafd" name="Changes" comment="" />
+      <created>1653315033675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653315033675</updated>
+    </task>
+    <servers />
+  </component>
+</project>
